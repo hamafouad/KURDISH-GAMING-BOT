@@ -1,1 +1,1 @@
-# KURDISH-GAMING-BOT
+#tempro Bot
